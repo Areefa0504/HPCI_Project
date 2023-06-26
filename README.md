@@ -59,6 +59,8 @@ For complete implementation and design please use the file
 
 [Implementation Steps](https://github.com/Areefa0504/HPCI_Project/blob/main/Implementation%20Steps.pdf)
 
+[Mapreduce_Contents](https://github.com/Areefa0504/HPCI_Project/blob/main/Mapreduce_ChurnAnalysis.docx)
+
 
 
 
