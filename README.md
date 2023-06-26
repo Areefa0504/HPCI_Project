@@ -3,9 +3,8 @@ This is a project using Mapreduce
 
 Introduction:
 ===============
-Comcast Corporation Pvt Ltd (imaginary) is a Telecommunication organization that provides telecommunication services to millions of customers. Typically, a single 
-customer can generate a significant amount of data, including internet usage, TV viewing habits, and customer churn rate which requires advanced data processing and highperformance computational infrastructure capabilities to manage and make sense of the collected data. To analyze sales transactions, Comcast Telecommunication uses an 
-advanced data analytics system that utilizes Hadoop and machine learning algorithms. The system can identify patterns in customer behavior, such as it provides insights into which customers are likely to churn, enabling the company to take proactive measures to retain them. Due to the vast amount of data being generated every day, Comcast uses the Hadoop system, and cloud storage to store the data. The company employs a robust security system to ensure the privacy and security of the data.
+Comcast Corporation Pvt Ltd (imaginary) is a Telecommunication organization that provides telecommunication services to millions of customers. Typically, a single customer can generate a significant amount of data, including internet usage, TV viewing habits, and customer churn rate which requires advanced data processing and highperformance computational infrastructure capabilities to manage and make sense of the collected data. To analyze sales transactions, Comcast Telecommunication uses an advanced data analytics system that utilizes Hadoop and machine learning algorithms. The system can identify patterns in customer behavior, such as it provides insights into which customers are likely to churn, enabling the company to take proactive measures to retain them. Due to the vast amount of data being generated every day, Comcast uses the Hadoop system, and cloud storage to store the data. The company employs a robust security system to ensure the privacy and security of the data.
+
 1.2 Problem Description:
 ==========================
 The biggest problem of the telecommunication organization today is that customers discontinue using the company’s services. When customers cancel their subscriptions, the 
