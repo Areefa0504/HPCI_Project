@@ -57,7 +57,7 @@ To answer the question, the data in the customer churn CSV file must be filtered
 
 For complete implementation and design please use the file 
 
-
+[embed] https://github.com/Areefa0504/HPCI_Project/blob/main/Implementation%20Steps.pdf [/embed]
 
 
 
